@@ -14,7 +14,7 @@
 
 # JittorCV
 
-This is an organization presented by the Media Computing Lab at Nankai University led by Ming-Ming Cheng. The goal is to provide wonderful computer vision projects based on the [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/) framework.
+This is an organization presented by [Qibin Hou](https://houqb.github.io/) from the [Media Computing Lab](https://mmcheng.net/) at Nankai University led by Ming-Ming Cheng. The goal is to provide wonderful computer vision projects based on the [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/) framework.
 
 At present, we have offered four projects, namely
 
