@@ -18,10 +18,10 @@ This is an organization presented by [Qibin Hou](https://houqb.github.io/) from 
 
 At present, we have offered four projects, namely
 
-- JittorCls. An image classification repo.
-- JittorDet. An object detection repo.
-- JittorSeg. A semantic segmentation repo.
-- JittorDiffusion. A diffusion-based repo for image content generation.
+- [JittorCls](https://github.com/JittorCV/jittorcls). An image classification repo.
+- [JittorDet](https://github.com/JittorCV/jittordet). An object detection repo.
+- [JittorSeg](https://github.com/JittorCV/jittorseg). A semantic segmentation repo.
+- [JittorDiffusion](https://github.com/JittorCV/jittordiffusion). A diffusion-based repo for image content generation.
 
 If you are also interested in developing new projects, welcome to contact us via houqb@nankai.edu.cn.
 
