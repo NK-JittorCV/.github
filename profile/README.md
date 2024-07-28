@@ -16,7 +16,7 @@ This is an organization presented by [Media Computing Lab](https://mmcheng.net/)
 
 - [Deng-Ping Fan](https://dengpingfan.github.io/)
 
-At present, we have offered four projects, namely
+At present, we have offered the following four projects. More methods and projects will be added to enrich the jittorcv community.
 
 - [JittorCls](https://github.com/JittorCV/jittorcls). An image classification repo.
 - [JittorDet](https://github.com/JittorCV/jittordet). An object detection repo.
