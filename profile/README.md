@@ -22,7 +22,7 @@ At present, we have offered the following four projects. More methods and projec
 - [JittorCls](https://github.com/JittorCV/jittorcls). An image classification repo.
 - [JittorDet](https://github.com/JittorCV/jittordet). An object detection repo.
 - [JittorSeg](https://github.com/JittorCV/jittorseg). A semantic segmentation repo.
-- [JittorDiffusion](https://github.com/JittorCV/jittordiffusion). A diffusion-based repo for image content generation.
+- [NK-Diffusion](https://github.com/JittorCV/nk-diffusion). A diffusion-based repo for image content generation.
 
 If you are also interested in developing new projects, welcome to contact us via houqb@nankai.edu.cn.
 
