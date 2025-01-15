@@ -12,7 +12,7 @@
 
 # NK-JittorCV
 
-This is an organization presented by [Media Computing Lab](https://mmcheng.net/) at Nankai University and maintained by [Qibin Hou](https://houqb.github.io/). The goal is to provide wonderful computer vision projects based on the [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/) framework. We have some collaborators to help maintain this organization:
+This is an organization presented by [Media Computing Lab](https://mmcheng.net/) at Nankai University and maintained by [Qibin Hou](https://houqb.github.io/) and [Ming-Ming Cheng](https://mmcheng.net/cmm/). The goal is to provide wonderful computer vision projects based on the [Jittor](https://cg.cs.tsinghua.edu.cn/jittor/) framework. We have some collaborators to help maintain this organization:
 
 - [Xiang Li](https://implus.github.io/)
 - [Deng-Ping Fan](https://dengpingfan.github.io/)
