@@ -16,14 +16,14 @@ This is an organization presented by [Media Computing Lab](https://mmcheng.net/)
 
 - [Xiang Li](https://implus.github.io/)
 - [Deng-Ping Fan](https://dengpingfan.github.io/)
-- [Xialei Liu](https://mmcheng.net/xliu/)
 
 At present, we have offered the following four projects. More methods and projects will be added to enrich the jittorcv community.
 
-- [JittorCls](https://github.com/Nankai-JittorCV/jittorcls). An image classification repo.
-- [JittorDet](https://github.com/Nankai-JittorCV/jittordet). An object detection repo.
-- [JittorSeg](https://github.com/Nankai-JittorCV/jittorseg). A semantic segmentation repo.
-- [NK-Diffusion](https://github.com/Nankai-JittorCV/nk-diffusion). A diffusion-based repo for image content generation.
+- [Jittor classification](https://github.com/Nankai-JittorCV/jittorcls). An image classification repo.
+- [Jittor object detection](https://github.com/Nankai-JittorCV/jittordet). An object detection repo.
+- [Jittor segmentation](https://github.com/Nankai-JittorCV/jittorseg). A semantic segmentation repo.
+- [Jittor diffusion](https://github.com/Nankai-JittorCV/nk-diffusion). A diffusion-based repo for image content generation.
+- [Jittor remote sensing](https://github.com/NK-JittorCV/nk-remote). A rotated object detection repo.
 
 If you are also interested in developing new projects, welcome to contact us via houqb@nankai.edu.cn.
 
